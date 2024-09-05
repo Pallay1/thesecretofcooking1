@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The Secret of Cooking</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="recipe_name_hint">Nombre de la receta</string>
+    <string name="recipe_ingredients_hint">Ingredientes</string>
+    <string name="add_recipe">Agregar receta</string>
+</resources>
