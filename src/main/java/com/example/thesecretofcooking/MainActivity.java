@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
                 String password = passwordInput.getText().toString();
 
                 if (validateLogin(username, password)) {
-                    // Iniciar nueva actividad si el login es correcto
+                    // Iniciar nueva actividad si el login es correcto, ojala
                     Intent intent = new Intent(MainActivity.this, RecipeActivity.class);
                     startActivity(intent);
                 } else {
